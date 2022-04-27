@@ -1,0 +1,1693 @@
+    @media (min-width:375px) and (max-width:767px) {
+       /*topbar start*/
+        .topbar{
+           display: none;
+       }
+        /*topbar end*/
+
+        /*header start*/
+        .nav-bar{
+            display: none;
+        }
+        .search{
+            display: none;
+        }
+        .cart{
+            display: none;
+        }
+        .container-fluid {
+            width: 100%;
+            border: 1px solid #d2d2d2;
+            background-color: white;
+          }
+          .header {
+            margin: 15px 0px;
+          }
+        .logo img{
+            width: 80%;
+        }
+        .hamburg .fa-solid.fa-bars {
+            color: black;
+          }
+        /*header end*/
+
+        /*----------life circle start-----------*/
+        .life-circle-grid {
+            grid-template-columns: repeat(1, auto); 
+          }
+          .sports {
+            margin-bottom: 30px;
+          }
+         .s-footer i.fa-solid.fa-calendar-days {
+            color: #a6a5aa;
+        }
+        .s-footer span.fa-date {
+          color: #a6a5aa;
+      }
+        /*--------life circle end-----------*/
+
+        /*---------moon landing section start----------*/
+        .d-none{
+            display: block;
+            margin-top: 30px;
+        }
+        .ml-section-3{
+            display: none;
+        }
+         .moon-landing {
+            margin: 80px 0px;
+          }
+        .ml-flex {
+            display: flex;
+            flex-direction: column;
+          }
+          .ml-section-1 {
+            display: block;
+            width: 100%;
+          }
+          .container-90 {
+            padding: 70px 0px 25px 20px;
+          }
+          .fashion-a{
+            padding: 6px 10px;
+          }
+        .sec-1-bg-img{
+            background-size: cover;
+            height: 100%;
+            width: 100%;
+            margin-bottom: 30px;
+        }
+        .section-1-heading a {
+            font-size: 16px;
+            line-height: 26px;
+          }
+          .section-1-footer {
+            align-items: center;
+            flex-wrap: wrap;
+        }
+          .name a{
+            font-size: 12px;
+          }
+          .part-1-d i.fa-solid.fa-calendar-days{
+              color: #a6a5aa;
+          }
+         .part-1-d span.fa-date{
+              color: #a6a5aa;
+          }
+          .far.fa-comments.icon {
+            font-size: 14px;
+          }
+          .comment {
+            margin-left: 20px;
+           
+        }
+          .comment a{
+              font-size: 14px;
+              margin-top: 8px;
+          }
+          .comment {
+            /*! display: flex; */
+            /*! margin-left: 20px; */
+            color: white;
+          }
+          .ml-section-2 {
+            width: 100%;
+            margin-left: 0px;
+          }
+          .part-1-img img {
+            border-radius: 5px;
+            height: 100%;
+            width: 100%;
+          }
+          .d-none {
+            display: block;
+            margin-top: 30px;
+          }
+          .part-1-d i.fa-solid.fa-calendar-days {
+            color: dodgerblue;
+          }
+          span.fa-date {
+            color: skyblue;
+          }
+        /*------------moon landing section end-----------*/
+
+        /*----------top stories start------------*/
+
+        /*background img start*/
+        .absolute-img-1{
+            display: none;
+        }
+        .absolute-img-2{
+            display: none;
+        }
+         /*background img end*/
+
+         /*ts header start*/
+         .ts-heading {
+          width: 60%;
+          }
+         .ts-width {
+            width: 50%;
+            margin-left: 20px;
+          }
+         /*ts header end*/
+
+         /*top-stories-body start*/
+        .ts-body-grid {
+            display: grid;
+            grid-template-columns: repeat(1,auto);
+            display: block;
+          }
+          .part {
+            margin-bottom: 30px;
+          }
+          i.fa-solid.fa-calendar-days {
+            color: #a5a5a5;
+          }
+          span.fa-date {
+            color: #a5a5a5;
+          }
+          /*top-stories-body start*/
+
+
+        /*top stories end*/
+
+        /*------------ what's new section start ----------------*/
+        .whats-new-heading{
+            display: block;
+            text-align: center;
+            letter-spacing: 1px;
+        }
+        .ba-button{
+            display: block;
+            margin-top: 40px;
+        }
+        .blog-section{
+            display: none;
+        }
+        .social-section{
+            display: none;
+        }
+        .flex{
+            display: none;
+        }
+        .block-img-content{
+            display: block;
+        }
+        .block-bg-img-footer {
+            display: grid;
+            flex-direction: row;
+            grid-template-columns: repeat(2,auto);
+          }
+          .block-bg-img-date {
+            margin-left: 0px;
+            font-size: 16px;
+          }
+          .block-bg-img-name p {
+            margin-bottom: 20px;
+          }
+          i.fa-solid.fa-calendar-days {
+            color: white;
+          }
+          span.fa-date {
+            color: white;
+          }
+          .block-bg-img-comment {
+            margin-left: 0px;
+          }
+          .block-bg-img-comment a {
+            color: white;
+          }
+          .ci-flex{
+              display: flex;
+              justify-content: space-between;
+          }
+          .block-content {
+            margin-left: 0px;
+            margin-top: 100px;
+          }
+          .content-1 {
+            margin-bottom: 80px;
+          }
+          .block-img {
+            width: 50%;
+            margin-top: 50px;
+          }
+          .blog-img-1 {
+            position: relative;
+            margin-bottom: 50px;
+          }
+        /*----------- what's new section end ------------*/
+
+        /* life style start */
+        /* 1st section start */
+        .ls-flex {
+          display: flex;
+          flex-direction: column;
+        }
+        /* 1st section heading start */
+        .life-style-section{
+          width: 100%;
+          display: block;
+          /*border: 1px solid red;*/
+         
+      }
+       /*blog-heading start*/
+      
+      .life-style-heading {
+          width: 40%;
+          /*border: 1px solid black;*/
+      }
+      .life-style h2 {
+        font-size: 25px;
+      }
+      .life-style-width{
+        width: 60%;
+    }
+      /* 1st section heading end */
+
+       /* 1st section body start */
+       .lsb-grid {
+        grid-template-columns: repeat(1,auto);
+       
+    }
+      /* 1st section body end */
+
+       /*stay connected start*/
+       .stay-connected{
+        display: block;
+      }
+      .sc-heading {
+        width: 45%;
+      }
+      .sc-heading h3 {
+        font-size: 14px;
+      }
+      .sc-width {
+        width: 55%;
+      }
+      /* stay connected end */
+       /* social-media active start */
+       .sm{
+        display: block;
+    }
+    /* social-media active end */
+      /* 1st section end */
+
+       /* 2nd section start */
+       .second-section{
+        width: 100%;
+        margin-left: 0px;
+    }
+    /* 2nd section heading start */
+     /* popular news start */
+     .second-section-heading{
+        width: 100%;
+        margin-top: 14px;
+        display: block;
+    }
+
+     /* 2nd section body start */
+     .ssi-sports {
+      display: grid;
+      grid-template-columns: repeat(2, auto);
+      column-gap: 20px;
+      align-items: center;
+      width: 100%;
+      margin-top: 40px;
+      margin-bottom: 40px;
+    }
+    .ssb1-sports {
+        display: grid;
+        grid-template-columns: repeat(2, auto);
+        column-gap: 20px;
+        align-items: center;
+        width: 100%;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+      .ssi-hr {
+        width: 100%;
+        margin-top: 30px;
+        display: block;
+    }
+    /* 2nd section body end */
+    /* 2nd section end */
+        /* life style end */
+
+        /* ------ gallery start------- */
+        .gallery-bg-img {
+          background-size: auto;
+        }
+        .tech-heading a h2 {
+          font-size: 30px;
+          line-height: 40px;
+        }
+        .music {
+          padding-top: 20px;
+        }
+        .fa-solid.fa-play {
+          font-size: 20px;
+          width: 50px;
+          height: 50px;
+          line-height: 50px;
+        }
+        .tw-20 {
+          display: none;
+        }
+        .gid-2{
+          display: none;
+      }
+      .gid-3{
+          display: none;
+      }
+        /* ------ gallery end------- */
+
+         /* -------blog start--------- */
+      .blog-flex {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+      }
+      /* blog-75 start */
+      .blog-75 {
+        margin-top: 45px;
+        width: 100%;
+      }
+      .part-two-flex {
+        margin: 30px 0px;
+      }
+      .latest-news-heading {
+        width: 60%;
+      }
+      .latest-news-width {
+        width: 45%;
+      }
+      .animal-info-flex {
+        flex-direction: column;
+      }
+      .animal-info {
+        margin-left: 0px;
+        margin-top: 25px;
+      }
+      .part-four {
+        margin-top: 60px;
+      }
+       /* blog-75 end */
+
+       /* blog-25 start */
+       .blog-25 {
+        width: 100%;
+        margin-top: 60px;
+        margin-left: 0px;
+      }
+      .popular-blog-body {
+        flex-direction: column;
+      }
+      .fashion-blog {
+        margin-bottom: 30px;
+      }
+      .music-blog {
+        margin-bottom: 30px;
+      }
+      .travel-blog {
+        margin-top: 0px;
+        margin-bottom: 30px;
+      }
+       /* blog-25 end */
+      /* -------blog end--------- */
+
+          /* ------- featured post start--------- */
+          .featured-heading {
+            font-size: 22px;
+            line-height: 30px;
+            font-family: spartan,sans-serif;
+            font-weight: 600;
+            display: block;
+            text-align: center;
+          }
+          .ba-button {
+            display: block;
+            margin-top: 40px;
+          }
+          .f-flex {
+            display: none;
+          }
+          .img-content-flex {
+            display: block;
+            margin-top: 50px;
+          }
+          .featured-img-content {
+            margin-bottom: 10px;
+            width: 100%;
+          }
+          .f-img1-content {
+            width: 100%;
+            margin-left: 0px;
+          }
+          .f-img2-content {
+            width: 100%;
+          }
+          .f-content i.fa-solid.fa-calendar-days {
+            color: #a5a5a5;
+          }
+          /* ------- featured post end--------- */
+
+        /*------------ subscribe start---------- */
+             .subscribe-flex {
+              padding: 40px 0px;
+            }
+            .width-40 {
+              display: none;
+            }
+            .width-60 {
+              width: 100%;
+              margin-left: 20px;
+            }
+            .width-60 h2 {
+              font-size: 28px;
+              line-height: 36px;
+              margin-bottom: 30px;
+            }
+            .width-60 input {
+              width: 100%;
+            }
+            .width-60 a {
+              right: 0px;
+            }
+        /*------------ subscribe end---------- */
+
+           /* ------big footer start----------- */
+          .bf-flex {
+            padding: 80px 0px;
+            display: flex;
+            flex-direction: column;
+          }
+          .bf-first {
+            width: 100%;
+          }
+          .bf-second {
+            width: 100%;
+            margin-left: 0px;
+            margin-top: 40px;
+          }
+          .bf-third {
+            margin-left: 0px;
+            width: 100%;
+          }
+          .bf-fourth {
+            margin-left: 0px;
+            width: 100%;
+          }
+          /* ------big footer end-----------*/
+    }
+    
+        
+    
+    @media (min-width:768px) and (max-width:1023px) {
+        /*topbar start*/
+        .topbar {
+            padding: 10px 0px;
+        }
+        
+        .topbar-flex {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        /*trending start*/
+        
+        .trending {
+            display: flex;
+            align-items: center;
+        }
+        
+        .t-sec-1 i.fa-solid {
+            background: #164DE3;
+            color: white;
+            text-align: center;
+            width: 30px;
+            height: 30px;
+            line-height: 30px;
+            border-radius: 50%;
+            font-size: 14px;
+        }
+        
+        span.trend {
+            text-transform: uppercase;
+            font-size: 13px;
+            font-weight: 400;
+            font-family: roboto, sans-serif;
+            color: #d2d2d2;
+            margin-left: 2px;
+        }
+        
+        span.break {
+            margin: 0px 0px 0px 5px;
+            color: #d2d2d2;
+            font-size: 25px;
+        }
+        .t-sec-2 ul{
+            display: flex;
+            align-items: center;
+        }
+        .t-sec-2 .disc {
+            list-style-type: disc;
+            color: gray;
+            margin-left: 25px;
+        }
+        
+        .t-sec-2 p {
+            color: #e0e0e0;
+            font-size: 13px;
+            font-family: roboto, sans-serif;
+            font-weight: 400;
+        }
+        /*trending end*/
+        
+        .date-social-icon {
+            display: flex;
+            margin-right: 15px;
+        }
+        /*calendar strat and date start*/
+        .calender {
+            display: inline-block;
+        }
+        
+        .calender .fa-calendar-days {
+            color: white;
+            font-size: 16px;
+        }
+        
+        span.fa-date {
+            font-size: 12px;
+            font-family: roboto, sans-serif;
+            margin-left: 3px;
+            color: #a5a6aa;
+            text-transform: uppercase;
+            font-weight: 600;
+        }
+        /*calendar strat and date end*/
+        /*location start*/
+        
+        .location {
+            display: none;
+        }
+        /*location end*/
+        
+        span.date-area {
+            font-size: 16px;
+            color: lightgray;
+            margin: 0px 15px;
+        }
+        /*follow us start*/
+        
+        .follow-us {
+            display: none;
+        }
+        /*follow us end*/
+        /*topbar end*/
+
+          /*header start*/
+          .nav-bar{
+            display: none;
+        }
+        .search{
+            display: none;
+        }
+        .cart{
+            display: none;
+        }
+          .header {
+            margin: 15px 0px;
+          }
+        .logo img{
+            width: 80%;
+        }
+        .hamburg .fa-solid.fa-bars {
+            color: black;
+          }
+        /*header end*/
+
+        /*life circle start*/
+        .life-circle-grid {
+            grid-template-columns: repeat(2, auto);
+          }
+        .sports {
+            padding: 20px 40px;
+          }
+        /*life circle end*/
+
+        /*moon landing section start*/
+        .ml-section-3{
+            display: none;
+        }
+        .ml-section-2{
+            display: none;
+        }
+        .sec-4{
+            display: block;
+        }
+        .ml-flex {
+            display: flex;
+            flex-direction: column;
+          }
+          .ml-section-1 {
+            width: 100%;
+            display: block;
+            margin-bottom: 50px;
+          }
+        .sec-4-flex {
+            display: flex;
+            margin-bottom: 40px;
+        }
+        .img-40 {
+            width: 25%;
+          }
+          .img-40 img {
+            width: 100%;
+            border-radius: 5px;
+          }
+          .content-60 {
+            margin-left: 30px;
+            width: 75%;
+          }
+          .content1 h4 {
+            background: #164DE3;
+            display: inline-block;
+            padding: 8px;
+            color: white;
+            text-transform: uppercase;
+            font-size: 12px;
+            margin-bottom: 15px;
+          }
+          .content1 h3 {
+            font-size: 22px;
+            line-height: 32px;
+            font-family: roboto,sans-serif;
+            font-weight: 600;
+            margin-bottom: 15px;
+          }
+          i.fa-solid.fa-calendar-days {
+            font-size: 16px;
+            color: white;
+          }
+          span.fa-date {
+            font-size: 14px;
+            color: white;
+          }
+        /*moon landing section end*/
+
+        /*top stories start*/
+
+        /*background img start*/
+        .absolute-img-1{
+            display: none;
+        }
+        .absolute-img-2{
+            display: none;
+        }
+         /*background img end*/
+
+         /*ts header start*/
+         .ts-width {
+            width: 70%;
+            margin-left: 20px;
+          }
+         /*ts header end*/
+
+         /*top-stories-body start*/
+         
+        .ts-body-grid {
+            display: grid;
+            grid-template-columns: repeat(2,auto);
+          }
+          .part {
+            margin-bottom: 30px;
+          }
+          i.fa-solid.fa-calendar-days {
+            color: #a5a5a5;
+          }
+          span.fa-date {
+            color: #a5a5a5;
+          }
+          /*top-stories-body start*/
+
+
+        /*top stories end*/
+
+        
+        /*---------- what's new section start ------------*/
+        .whats-new-heading{
+            display: block;
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        .ba-button{
+            display: block;
+        }
+        .blog-section{
+            display: none;
+        }
+        .social-section{
+            display: none;
+        }
+        .flex{
+            display: none;
+        }
+        .block-img-content{
+            display: block;
+        }
+        .block-bg-img-footer {
+            display: grid;
+            flex-direction: row;
+            grid-template-columns: repeat(2,auto);
+          }
+          .block-bg-img-date {
+            margin-left: 0px;
+            font-size: 16px;
+          }
+          .block-bg-img-name p {
+            margin-bottom: 20px;
+          }
+          i.fa-solid.fa-calendar-days {
+            color: #a6a5aa;
+            font-size: 16px;
+          }
+          span.fa-date {
+            color: #a6a5aa;
+            font-size: 13px;
+          }
+          .block-bg-img-comment {
+            margin-left: 0px;
+          }
+          .block-bg-img-comment a {
+            color: white;
+          }
+          .ci-flex{
+              display: flex;
+              justify-content: space-between;
+          }
+          .block-content {
+            margin-left: 0px;
+            margin-top: 100px;
+            width: 70%;
+          }
+          .content-1 {
+            margin-bottom: 80px;
+          }
+          .block-img {
+            width: 27%;
+            margin-top: 50px;
+          }
+          .blog-img-1 {
+            position: relative;
+            margin-bottom: 14px;
+          }
+        /*---------- what's new section end ------------*/
+
+        /*------------ life style start -------------*/
+        /* 1st section start */
+        .ls-flex {
+          display: flex;
+          flex-direction: column;
+        }
+        /* 1st section heading start */
+        .life-style-section{
+          width: 100%;
+          display: block;
+          /*border: 1px solid red;*/
+         
+      }
+       /*blog-heading start*/
+      
+      .life-style-heading {
+          width: 40%;
+          /*border: 1px solid black;*/
+      }
+      .life-style h2 {
+        font-size: 25px;
+      }
+      .life-style-width{
+        width: 60%;
+    }
+      /* 1st section heading end */
+
+       /* 1st section body start */
+       .lsb-grid {
+        grid-template-columns: repeat(2,auto);
+       
+    }
+      /* 1st section body end */
+
+       /*stay connected start*/
+       .stay-connected{
+        display: block;
+      }
+      .sc-heading {
+        width: 45%;
+      }
+      .sc-heading h3 {
+        font-size: 14px;
+      }
+      .sc-width {
+        width: 55%;
+      }
+      /* stay connected end */
+       /* social-media active start */
+       .sm{
+        display: block;
+    }
+    /* social-media active end */
+      /* 1st section end */
+
+       /* 2nd section start */
+       .second-section{
+        width: 100%;
+        margin-left: 0px;
+    }
+    /* 2nd section heading start */
+     /* popular news start */
+     .second-section-heading{
+        width: 100%;
+        margin-top: 14px;
+        display: block;
+    }
+
+     /* 2nd section body start */
+     .ssi-sports {
+      display: grid;
+      grid-template-columns: repeat(2, auto);
+      column-gap: 20px;
+      align-items: center;
+      width: 100%;
+      margin-top: 40px;
+      margin-bottom: 40px;
+    }
+    .ssb1-sports {
+        display: grid;
+        grid-template-columns: repeat(2, auto);
+        column-gap: 20px;
+        align-items: center;
+        width: 100%;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+      .ssi-hr {
+        width: 100%;
+        margin-top: 30px;
+        display: block;
+    }
+    /* 2nd section body end */
+    /* 2nd section end */
+      /*-------------- life style end ---------------*/
+
+      /* ------ gallery start------- */
+      .gallery-bg-img {
+        background-size: auto;
+      }
+      .tech-heading a h2 {
+        font-size: 30px;
+        line-height: 40px;
+      }
+      .music {
+        padding-top: 20px;
+      }
+      .fa-solid.fa-play {
+        font-size: 20px;
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+      }
+      .tw-20 {
+        display: none;
+      }
+    .gid-3{
+        display: none;
+      }
+      /* ------ gallery end------- */
+
+      /* -------blog start--------- */
+      .blog-flex {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+      }
+      /* blog-75 start */
+      .blog-75 {
+        margin-top: 45px;
+        width: 100%;
+      }
+      .part-two-flex {
+        margin: 30px 0px;
+      }
+      .latest-news-heading {
+        width: 60%;
+      }
+      .latest-news-width {
+        width: 45%;
+      }
+      .animal-info-flex {
+        flex-direction: column;
+      }
+      .animal-info {
+        margin-left: 25px;
+        margin-top: 25px;
+      }
+     
+      .part-four {
+        margin-top: 60px;
+      }
+       /* blog-75 end */
+
+       /* blog-25 start */
+       .blog-25 {
+        width: 100%;
+        margin-top: 60px;
+        margin-left: 0px;
+      }
+      .p-three img {
+        width: 50%;
+        border-radius: 5px;
+      }
+       /* blog-25 end */
+      /* -------blog end--------- */
+
+      /* -------fetured post start---------*/
+    .featured-heading {
+      display: none;
+      text-align: center;
+      margin-bottom: 35px;
+    }
+    .ba-button {
+      display: none;
+    }
+    .img-content-flex {
+      display: block;
+      margin-top: 50px;
+    }
+    .f-flex {
+      display: flex;
+    }
+    .blog-f-heading {
+      width: 30%;
+    }
+    .blog-f-width {
+      width: 20%;
+    }
+    .blog-f-article {
+      width: 50%;
+    }
+    .featured-img-content {
+      margin-bottom: 10px;
+      width: 100%;
+    }
+    .f-img1-content {
+      width: 100%;
+      margin-left: 0px;
+    }
+    .f-img2-content {
+      width: 100%;
+    }
+    .f-content i.fa-solid.fa-calendar-days {
+      color: #a5a5a5;
+    }
+    /* -------fetured post end------------*/
+
+      /*------------ subscribe start---------- */
+        .subscribe-flex {
+          padding: 40px 0px;
+        }
+        .width-40 {
+          display: none;
+        }
+        .width-60 {
+          width: 70%;
+          margin-left: 20px;
+          margin: 0px auto;
+        }
+        .width-60 h2 {
+          font-size: 28px;
+          line-height: 36px;
+          margin-bottom: 30px;
+        }
+        .width-60 input {
+          width: 100%;
+        }
+        .width-60 a {
+          right: 0px;
+        }
+    /*------------ subscribe end---------- */
+
+   
+
+    /* ------big footer start----------- */
+    .bf-flex {
+      padding: 80px 0px;
+      display: grid;
+      grid-template-columns: repeat(2,auto);
+    }
+    .bf-first {
+      width: 75%;
+    }
+    .bf-second {
+      width: 75%;
+      margin-top: 0px;
+    }
+    .bf-third {
+      width: 50%;
+      margin-top: 25px;
+      margin-left: 0px;
+    }
+    .bf-fourth {
+      width: 80%;
+      margin-top: 25px;
+      margin-left: 65px;
+    }
+    /* ------big footer end-----------*/
+
+    }
+       
+    
+    @media (min-width:1024px) and (max-width:1364px) {
+         /*---------topbar start-----------*/
+        .topbar {
+            padding: 10px 0px;
+        }
+        
+        .topbar-flex {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        /*trending start*/
+        
+        .trending {
+            display: flex;
+            align-items: center;
+        }
+        
+        .t-sec-1 i.fa-solid {
+            background: #164DE3;
+            color: white;
+            text-align: center;
+            width: 30px;
+            height: 30px;
+            line-height: 30px;
+            border-radius: 50%;
+            font-size: 14px;
+        }
+        
+        span.trend {
+            text-transform: uppercase;
+            font-size: 13px;
+            font-weight: 400;
+            font-family: roboto, sans-serif;
+            color: #d2d2d2;
+            margin-left: 2px;
+        }
+        
+        span.break {
+            margin: 0px 0px 0px 5px;
+            color: #d2d2d2;
+            font-size: 25px;
+        }
+        .t-sec-2 ul{
+            display: flex;
+            align-items: center;
+        }
+        .t-sec-2 .disc {
+            list-style-type: disc;
+            color: gray;
+            margin-left: 25px;
+        }
+        
+        .t-sec-2 p {
+            color: #e0e0e0;
+            font-size: 13px;
+            font-family: roboto, sans-serif;
+            font-weight: 400;
+        }
+        /*trending end*/
+        
+        .date-social-icon {
+            display: flex;
+            margin-right: 15px;
+        }
+        /*calendar strat and date start*/
+        .calender {
+            display: inline-block;
+        }
+        
+        .calender .fa-calendar-days {
+            color: white;
+            font-size: 16px;
+        }
+        
+        span.fa-date {
+            font-size: 12px;
+            font-family: roboto, sans-serif;
+            margin-left: 3px;
+            color: #a5a6aa;
+            text-transform: uppercase;
+            font-weight: 600;
+        }
+        /*calendar strat and date end*/
+        /*location start*/
+        
+        .location {
+            display: none;
+        }
+        /*location end*/
+        
+        span.date-area {
+            font-size: 16px;
+            color: lightgray;
+            margin: 0px 15px;
+        }
+        /*follow us start*/
+        
+        .follow-us {
+            display: flex;
+            align-items: center;
+        }
+        
+        .follow-us p {
+            color: white;
+            text-transform: uppercase;
+            font-size: 12px;
+            font-family: roboto, sans-serif;
+        }
+        
+        .follow-us ul {
+            display: inline-flex;
+        }
+        
+        .follow-us li {
+            margin-left: 10px;
+        }
+        
+        .follow-us li a {
+            color: #d2d2d2;
+            font-size: 13px;
+        }
+        
+        .follow-us li a:hover {
+            color: #164de3;
+        }
+        /*follow us end*/
+        /*---------topbar end-----------*/
+
+         /*---------header start---------*/
+         .header {
+            margin: 20px 0px;
+        }
+        
+        .header-flex {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            /* border: 1px solid black;*/
+        }
+        
+        .nav-bar ul {
+            display: flex;
+        }
+        
+        .nav-bar ul li a {
+            font-size: 15px;
+            font-family: roboto, sans-serif;
+            font-weight: 600;
+            color: #292929;
+            padding: 0px 16px;
+        }
+        
+        .nav-bar ul li a:hover {
+            color: #164de3;
+        }
+        
+        .nav-bar ul li a.active {
+            color: #1951E8;
+        }
+        
+        i.fa-solid.fa-angle-down {
+            font-size: 11px;
+            padding-left: 3px;
+            font-weight: 600;
+        }
+        
+        .icon {
+            display: flex;
+            align-items: center;
+        }
+        
+        .search a {
+            color: gray;
+            font-size: 20px;
+            padding-right: 25px;
+        }
+        
+        .search a:hover {
+            color: #164de3;
+        }
+        
+        .cart a {
+            color: gray;
+            font-size: 20px;
+            padding-right: 25px;
+        }
+        
+        .cart a:hover {
+            color: #164DE3;
+        }
+        
+        .cart a {
+            position: relative;
+        }
+        
+        span.cart-num {
+            position: absolute;
+            top: -10px;
+            border: 1px solid blue;
+            width: 20px;
+            height: 20px;
+            text-align: center;
+            line-height: 18px;
+            border-radius: 50%;
+            background-color: blue;
+            color: white;
+            left: 10px;
+        }
+        
+        .hamburg a {
+            color: gray;
+            font-size: 25px;
+            padding-right: 25px;
+        }
+        
+        .hamburg a:hover {
+            color: #164DE3;
+        }
+        /*-----------header end-----------*/
+    /*-----------life circle start-----------*/
+            
+    .life-circle {
+        padding: 45px 0px;
+    }
+
+    .life-circle-grid {
+        display: grid;
+        grid-template-columns: repeat(4, auto);
+        column-gap: 20px;
+    }
+
+    .sports {
+        display: grid;
+        grid-template-columns: repeat(2, auto);
+        column-gap: 20px;
+        align-items: center;
+    }
+    /*part 1 start*/
+
+    .s-image {
+        position: relative;
+    }
+
+    .s-image img {
+        border-radius: 50%;
+    }
+
+    span.img-num {
+        position: absolute;
+        top: 10px;
+        border: 1px solid white;
+        width: 20px;
+        height: 20px;
+        line-height: 20px;
+        text-align: center;
+        background-color: gray;
+        color: white;
+        border-radius: 50%;
+        left: 78px;
+        transition: .5s;
+    }
+
+    span.img-num:hover {
+        background-color: #164DE3;
+        cursor: context-menu;
+    }
+    /*part 1 end*/
+    /*part 2 start*/
+
+    .s-content {
+        margin-top: 0px;
+        margin-left: 0px;
+    }
+
+    .s-heading {
+        margin-bottom: 10px;
+    }
+
+    .s-heading a h3 {
+        font-size: 12px;
+        font-family: roboto, sans-serif;
+        color: #747c8c;
+        transition: .5s;
+        text-transform: uppercase;
+    }
+
+    .s-heading a h3:hover {
+        color: #164DE3;
+    }
+
+    .s-body {
+        margin-bottom: 10px;
+    }
+
+    .s-body h4 {
+        font-size: 16px;
+        font-family: Spartan, sans-serif;
+        font-weight: 700;
+        line-height: 24px;
+        color: black;
+        transition: .5s;
+    }
+
+    .s-body h4:hover {
+        text-decoration: underline;
+    }
+
+    i.fa-solid.fa-calendar-days {
+        color: #a6a5aa;
+        font-size: 13px;
+    }
+    /*part 2 end*/
+    /*----------life circle end-------------*/
+
+     /*-----------top stories start-----------*/
+
+        /*background img start*/
+        .absolute-img-1{
+            display: none;
+        }
+        .absolute-img-2{
+            display: none;
+        }
+         /*background img end*/
+
+         /*ts header start*/
+         .ts-width {
+            width: 78%;
+            margin-left: 20px;
+          }
+         /*ts header end*/
+
+         /*top-stories-body start*/
+         
+        .ts-body-grid {
+            display: grid;
+            grid-template-columns: repeat(4,auto);
+          }
+          .part {
+            margin-bottom: 30px;
+          }
+          .part a h2 {
+            font-size: 16px;
+          }
+          i.fa-solid.fa-calendar-days {
+            color: #a5a5a5;
+          }
+          span.fa-date {
+            color: #a5a5a5;
+          }
+          /*top-stories-body start*/
+
+
+        /*-----------top stories end------------*/
+
+        /*---------- whats new section start ------------*/
+        .blog-section {
+            width: 100%;
+          }
+          .social-section {
+            display: none;
+          }
+          .social-media {
+            display: none;
+          }
+          .blog-dot{
+            display: none;
+          }
+          .blog-width{
+            display: none;
+          }
+          .blog-article {
+            margin-top: 20px;
+        }
+          .blog-img-content {
+            width: 60%;
+          }
+          .blog-content {
+            width: 20%;
+          }
+          .blog-img {
+            width: 20%;
+            margin-left: 20px;
+          }
+
+        /*---------- whats new section end ------------*/
+
+         /*------------ life style start ------------*/
+        /* 1st section start */
+        .ls-flex {
+          display: flex;
+          flex-direction: column;
+        }
+        /* 1st section heading start */
+        .life-style-section{
+          width: 100%;
+          display: block;
+          /*border: 1px solid red;*/
+         
+      }
+       /*blog-heading start*/
+      
+      .life-style-heading {
+          width: 14%;
+          /*border: 1px solid black;*/
+      }
+      .life-style h2 {
+        font-size: 25px;
+      }
+      .life-style-width{
+        width: 83%;
+    }
+      /* 1st section heading end */
+
+       /* 1st section body start */
+       .lsb-grid {
+        grid-template-columns: repeat(2,auto);
+       
+    }
+      /* 1st section body end */
+
+       /*stay connected start*/
+       .stay-connected{
+        display: block;
+      }
+      .sc-heading {
+        width: 14%;
+      }
+      .sc-width {
+        width: 80% !important;
+      }
+      .sc-heading h3 {
+        font-size: 14px;
+      }
+      .sc-width {
+        width: 55%;
+      }
+      /* stay connected end */
+       /* social-media active start */
+       .sm{
+        display: block;
+    }
+    /* social-media active end */
+      /* 1st section end */
+
+       /* 2nd section start */
+       .second-section{
+        width: 100%;
+        margin-left: 0px;
+    }
+    /* 2nd section heading start */
+     /* popular news start */
+     .second-section-heading{
+        width: 100%;
+        margin-top: 14px;
+        display: block;
+      }
+      .pn-heading {
+        /* margin-left: 15px; */
+        width: 18%;
+      }
+    .pn-width {
+      margin-left: 15px;
+      width: 80%;
+      }
+
+     /* 2nd section body start */
+     .ssi-sports {
+      display: grid;
+      grid-template-columns: repeat(2, auto);
+      column-gap: 20px;
+      align-items: center;
+      width: 100%;
+      margin-top: 40px;
+      margin-bottom: 40px;
+    }
+    .ssb1-sports {
+        display: grid;
+        grid-template-columns: repeat(2, auto);
+        column-gap: 20px;
+        align-items: center;
+        width: 100%;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+      .ssi-hr {
+        width: 100%;
+        margin-top: 30px;
+        display: block;
+    }
+    /* 2nd section body end */
+    /* 2nd section end */
+    /*----------- life style end ---------*/
+
+        /*-------- subscribe start------ */
+        .width-40 {
+          width: 40%;
+          margin: 0px 60px 0px 0px;
+        }
+        /*------- subscribe end----------- */
+
+         /* -------blog start--------- */
+      .blog-flex {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+      }
+      /* blog-75 start */
+      .blog-75 {
+        margin-top: 45px;
+        width: 100%;
+      }
+      .part-two-flex {
+        margin: 30px 0px;
+      }
+      .latest-news-heading {
+        width: 20%;
+    }
+      .latest-news-width {
+        width: 80%;
+    }
+      .animal-info-flex {
+        display: flex;
+        flex-direction: row;
+      }
+      .animal-info {
+        margin-left: 25px;
+        margin-top: 25px;
+      }
+      .part-four {
+        margin-top: 60px;
+      }
+       /* blog-75 end */
+
+       /* blog-25 start */
+       .blog-25 {
+        width: 100%;
+        margin-top: 60px;
+        margin-left: 0px;
+      }
+      .hot-catagories-heading {
+        width: 18%;
+        /* border: 1px solid black; */
+    }
+      .hot-catagories-width {
+        margin-left: 15px;
+        width: 80%;
+    }
+      .p-three img {
+        width: 50%;
+        border-radius: 5px;
+      }
+      .popular-blog-body {
+        flex-wrap: nowrap;
+      }
+      .popular-blog-title {
+        width: 16%;
+        /* border: 1px solid black; */
+    }
+    .popular-blog-width {
+      margin-left: 15px;
+      width: 80%;
+  }
+      .music-blog {
+        margin-left: 30px;
+      }
+      .travel-blog {
+        margin-top: 0px;
+        margin-left: 30px;
+      }
+      .technology-blog {
+        margin-top: 0px;
+      }
+       /* blog-25 end */
+      /* -------blog end--------- */
+
+        /* --------featured post start--------- */
+        .featured-heading {
+          display: none;
+          text-align: center;
+          margin-bottom: 35px;
+        }
+     
+        .blog-f-heading {
+          width: 25%;
+        }
+        .blog-f-width {
+          width: 35%;
+        }
+        .blog-f-article {
+          width: 40%;
+        }
+        .f-ic-1 {
+          margin-bottom: 40px;
+        }
+        /* --------featured post end--------- */
+
+
+    }
+        
+    
+    @media (min-width:1365px) and (max-width:1439px) {
+        .container{
+            width: 95%;
+        }
+    }
+      
+    
+    @media (min-width:1440px) and (max-width:1920px) {
+      /* -------moon landing start-------- */
+      .part-1-img {
+        margin-bottom: 16px;
+    }
+      /* -------moon landing end-------- */
+      /* -----featured post start-------- */
+      .f-ic-1 {
+        margin-bottom: 18px;
+    }
+      /* -----featured post end----------- */
+    }
+       
