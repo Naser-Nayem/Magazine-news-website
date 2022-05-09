@@ -1678,7 +1678,7 @@
     }
       
     
-    @media (min-width:1440px) and (max-width:1920px) {
+   @media (min-width:1440px) and (max-width:1899px) {
       /* -------moon landing start-------- */
       .part-1-img {
         margin-bottom: 16px;
@@ -1689,5 +1689,46 @@
         margin-bottom: 18px;
     }
       /* -----featured post end----------- */
+    }
+
+    @media(min-width:1900px) and (max-width:2560px){
+      .container{
+        max-width: 75%;
+      }
+      .sec-1-bg-img {
+        height: 530px;
+    }
+    .container-90 {
+      padding: 310px 0px 25px 40px;
+    }
+    .part-1-img {
+      margin-bottom: 20px;
+    }
+    .blog-img-1 {
+      margin-bottom: 10px;
+    }
+    .tw-20 {
+      display: none;
+    }
+    .featured-img-content-p {
+      padding: 385px 0px 30px 30px;
+    }
+    .width-40 {
+      width: 35%;
+      margin: 0px auto;
+      /* border: 1px solid red; */
+    }
+    .width-60 {
+      width: 55%;
+      /* margin: 0px auto; */
+      /* border: 1px solid black; */
+       margin-left: 0px;
+    }
+    .width-60 input {
+      width: 80%;
+    }
+    .width-60 a {
+      right: 285px;
+  }
     }
        
